@@ -4,43 +4,48 @@ function myFunction() {
   document.getElementById("demo");
 
 switch(x) {
-  case "CQOL":
+  case "DVYY":
     // SERVER 1 SIJA	
     window.location.replace("https://edu1smkn1cmh.gnomio.com/course/view.php?id=109");
     break;
 	
-  case "FNTK":
+  case "XUEE":
     // SERVER 2	RPL
     window.location.replace("https://edu2smkn1cmh.gnomio.com/course/view.php?id=86");
     break;
 	
-	case "NPYJ":
+	case "BCPP":
     // SERVER 3	PFPT
     window.location.replace("https://edu3smkn1cmh.gnomio.com/course/view.php?id=95");
     break;
 	
-	case "PCVS":
+	case "WNKK":
     // SERVER 4	TEI
     window.location.replace("https://edu4smkn1cmh.gnomio.com/course/view.php?id=20");
     break;
 	
-	case "OHLF":
+	case "QSJJ":
     // SERVER 5	TPTU
     window.location.replace("https://edu5smkn1cmh.gnomio.com/course/view.php?id=19");
     break;
 	
-	case "GHLX":
+	case "AABB":
     // SERVER 6	TEDK
     window.location.replace("https://edu6smkn1cmh.gnomio.com/course/view.php?id=5");
     break;
 	
-	case "ALSG":
+	case "FKII":
     // SERVER 7	IOP
     window.location.replace("https://edusmkn1cmh7.gnomio.com/course/view.php?id=2");
     break;
 
-	case "VDPJ":
+	case "YXZZ":
     // SERVER 8	TOI
+    window.location.replace("https://edusmkn1cmh8.gnomio.com/course/view.php?id=5");
+    break;
+
+	case "XDAA":
+    // SERVER 9 KP
     window.location.replace("https://edusmkn1cmh8.gnomio.com/course/view.php?id=5");
     break;
 	
