@@ -11,7 +11,9 @@ switch(x) {
  
   case "gurukeren99@gmail.com":
     // SERVER 2 RPL
-    // window.location.replace("https://edu2smkn1cmh.gnomio.com");    window.location.replace("https://lh3.googleusercontent.com/proxy/KToG_95aGjO8zoTqMmybqR9pqUO-_J4-appSBdPAwrEid6hGcAIqQGwC-1Q4kRmm_nJqjOQRbigMN67eEgLNYBBQqbaIdoPApimk8UbmBhFtoFYOKEy6kD6BV4Sx7xoDlvUgHi_wF9qzTPqJqiY"); break;
+    // window.location.replace("https://edu2smkn1cmh.gnomio.com");    
+    window.location.replace("https://lh3.googleusercontent.com/proxy/KToG_95aGjO8zoTqMmybqR9pqUO-_J4-appSBdPAwrEid6hGcAIqQGwC-1Q4kRmm_nJqjOQRbigMN67eEgLNYBBQqbaIdoPApimk8UbmBhFtoFYOKEy6kD6BV4Sx7xoDlvUgHi_wF9qzTPqJqiY"); 
+    break;
 
 case "palimbongpither@gmail.com": document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, PITHER PALIMBONG Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "hendradermawan31@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, HENDRA DERMAWAN Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
