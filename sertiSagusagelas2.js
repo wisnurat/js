@@ -78,22 +78,19 @@ case "hasanahrinik@gmail.com":document.getElementById("demo").innerHTML = "<p st
 case "attiaryati46@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, ATTI  ARYATI Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "armarifia45@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, ARMA RIFIA Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "elinnuraida4@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, ELIN NURAIDA Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
-case "fahlevyrizky93@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>
-Selamat, RIZKY FAHLEVY Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
+case "fahlevyrizky93@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, RIZKY FAHLEVY Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "martini50tini@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, MARTINI TINI Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "hendrayani35@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, BACKPACKER ESHAYE Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "uviuswatunh76@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, UVI HASANAH Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 case "utyagusriaty74@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, UTY AGUSRIATY Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
-
 case "salmisupriatin26@gmail.com":document.getElementById("demo").innerHTML = "<p style='font-size:18px ; color:black'>Selamat, SALMI SUPRIATIN Anda dinyatakan</p><p style='font-size:20px ; color:blue'>LULUS</p><p style='font-size:18px ; color:black'>E-Sertifikat masih dalam proses pengesahan</p>"; break;
 
 case "":
 document.getElementById("demo").innerHTML = "<p style='font-size:20px ; color:red'>Anda belum mengetikkan e-mail</p>"; break;
 
- default:
+default:
     // code block
   document.getElementById("demo").innerHTML = "<p style='font-size:20px ; color:red'>e-mail Anda tidak terdaftar</p>";
   break;
 }
-}  
-    
+} 
